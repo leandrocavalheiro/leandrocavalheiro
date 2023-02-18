@@ -47,5 +47,6 @@ I've been working with technology since 2003. During this long period I've alrea
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocavalheiro/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:leandro.cavalheiro.dev@outlook.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/LeandroCavalheiro/)
-[![Nuget](https://img.shields.io/badge/-NuGet-blue?style=flat&logo=Nuget&logoColor=white)]([https://telegram.me/LeandroCavalheiro/](https://www.nuget.org/profiles/leandro.cavalheiro))
+[![NuGet](https://img.shields.io/badge/-NuGet-blue?style=flat&logo=Nuget&logoColor=white)](https://www.nuget.org/profiles/leandro.cavalheiro)
+
 
