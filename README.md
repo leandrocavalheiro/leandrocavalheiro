@@ -30,6 +30,7 @@ I've been working with technology since 2003. During this long period I've alrea
     <td><img src="https://img.shields.io/badge/Windows-2d2d2d.svg?&style=flat-square&logo=windows&logoColor=0078D6"></td>           
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/CQRS-2d2d2d.svg?&style=flat-square&logo=Windows Terminal&logoColor=#4D4D4D"></td>
     <td><img src="https://img.shields.io/badge/Ubuntu-2d2d2d.svg?&style=flat-square&logo=ubuntu&logoColor=#E95420"></td>
     <td><img src="https://img.shields.io/badge/Visual_Studio-2d2d2d.svg?&style=flat-square&logo=Visual Studio&logoColor=#5C2D91"></td>
     <td><img src="https://img.shields.io/badge/Visual_Studio_Code-2d2d2d.svg?&style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"></td>
