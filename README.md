@@ -74,4 +74,14 @@ I've been working with technology since 2003. During this long period I've alrea
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/streaks-light.svg" width="400" alt="Streaks">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/about-light.svg" width="400" alt="About">
+</picture>
+</p>
 <!-- cool-readme:end -->
