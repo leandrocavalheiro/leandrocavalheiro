@@ -7,7 +7,7 @@ look:
   style: classic
   color: purple
   background: 0c0710
-show: [summary, languages, contributions, weekly, streaks, about]
+show: [about, summary, languages, contributions, weekly, streaks]
 cards:
   about:
     headline: "Hi, I'm *Leandro*"
