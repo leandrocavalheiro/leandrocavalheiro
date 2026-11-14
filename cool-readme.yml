@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: leandrocavalheiro
+count:
+  private: false
+  orgs: false
+look:
+  style: classic
+  color: purple
+  background: 0c0710
