@@ -7,3 +7,13 @@ look:
   style: classic
   color: purple
   background: 0c0710
+show: [summary, languages, contributions, weekly, streaks, about]
+cards:
+  about:
+    headline: "Hi, I'm *Leandro*"
+    lines:
+      - "I'm a software developer with 20+ years of experience."
+      - "I'm primarily a Backend Developer, with .NET as my main tech stack. However, I'm comfortable exploring other areas and always willing to take on challenges beyond my primary focus."
+      - "I have experience developing ERP systems, warehouse management solutions, and integrations between different platforms and services. I'm also currently exploring the development of AI-powered agent solutions."
+    facts:
+      "Based in": "Dois Vizinho - Paraná - BBrazil"
