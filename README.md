@@ -40,36 +40,30 @@ I've been working with technology since 2003. During this long period I've alrea
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/about-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/about-light.svg" width="400" alt="About">
-</picture>  
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/summary-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/summary-light.svg" width="400" alt="GitHub stats">
 </picture>
+</p>
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/languages-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/languages-light.svg" width="400" alt="Most used languages">
 </picture>
-</p>
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/contributions-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/contributions-light.svg" width="400" alt="Notable contributions">
 </picture>
+</p>
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/weekly-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
-</p>
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/streaks-dark.svg">
   <img src="https://raw.githubusercontent.com/leandrocavalheiro/leandrocavalheiro/cards/streaks-light.svg" width="400" alt="Streaks">
 </picture>
-#### Find me at
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leo.cavalheiro.ti@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocavalheiro/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:leandro.cavalheiro.dev@outlook.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/LeandroCavalheiro/)
-[![NuGet](https://img.shields.io/badge/-NuGet-blue?style=flat&logo=Nuget&logoColor=white)](https://www.nuget.org/profiles/leandro.cavalheiro)  
 </p>
 <!-- cool-readme:end -->
